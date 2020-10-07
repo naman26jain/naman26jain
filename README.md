@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <i>Follow me:</i><br>
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">(https://www.linkedin.com/in/naman-jain-5083641a6/)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/naman-jain-5083641a6/)
 [<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/___namanjain____/)
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">(https://www.facebook.com/naman.rbk/)
+<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">](https://www.facebook.com/naman.rbk/)
 
 </div>
