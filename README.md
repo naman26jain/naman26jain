@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">](https://www.facebook.com/naman.rbk/)
 
 </div>
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<naman26jain>&theme=<THEME_NAME>" />-->
-<img src="https://github-readme-stats.vercel.app/api/<top-langs>?username=naman26jain&theme=tokyonight&show_icons=true">
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<naman26jain>&theme=<THEME_NAME>" />--><hr>
+<img src="https://github-readme-stats.vercel.app/api?username=naman26jain&theme=tokyonight&show_icons=true">
