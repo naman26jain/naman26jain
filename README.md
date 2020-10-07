@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 [![HitCount](http://hits.dwyl.com/naman26jain/naman26jain.svg)](http://hits.dwyl.com/naman26jain/naman26jain)
 
+
 <i>Follow me:</i><br>
 
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/naman-jain-5083641a6/)
@@ -30,3 +31,4 @@ Here are some ideas to get you started:
 </div>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<naman26jain>&theme=<THEME_NAME>" />--><hr>
 <img src="https://github-readme-stats.vercel.app/api?username=naman26jain&theme=tokyonight&show_icons=true">
+[![HitCount](http://hits.dwyl.com/naman26jain/HEP.svg)](http://hits.dwyl.com/naman26jain/HEP)
