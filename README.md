@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 </div>
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<naman26jain>&theme=<THEME_NAME>" />-->
-![github stats](<img src="https://github-readme-stats.vercel.app/api?username=naman26jain&theme=tokyonight&show_icons=true">)
+<img src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=naman26jain&theme=tokyonight&show_icons=true">
