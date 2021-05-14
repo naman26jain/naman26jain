@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/naman26jain/naman26jain.svg)](http://hits.dwyl.com/naman26jain/naman26jain)
 
 
 <i>Follow me:</i><br>
